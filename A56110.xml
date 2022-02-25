@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The protestation given in by the dissenting brethren, to the General Assembly July 21, 1652 reviewed and refuted ... / done by a member of the General Assembly.</title>
+            <author>Member of the General Assembly.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56110</idno>
+            <idno type="STC">Wing P3860</idno>
+            <idno type="STC">ESTC R33921</idno>
+            <idno type="EEBO-CITATION">13618750</idno>
+            <idno type="OCLC">ocm 13618750</idno>
+            <idno type="VID">100815</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100815)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1043:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The protestation given in by the dissenting brethren, to the General Assembly July 21, 1652 reviewed and refuted ... / done by a member of the General Assembly.</title>
+                  <author>Member of the General Assembly.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Leith by Evan Tyler,</publisher>
+                  <pubPlace>[Leith] :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained with loss of print.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  Scotland.</term>
+               <term>Scotland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100815:1"/>
+            <pb facs="tcp:100815:1" rendition="simple:additions"/>
+            <p>THE PROTESTATION Given in by the DISSENTING BRETHREN, TO THE GENERAL ASSEMBLY <hi>July</hi> 21.
+1652. Reviewed and Refuted; <hi>Briefly ſhewing the inſufficiencie of the rea<g ref="char:EOLhyphen"/>ſons thereof; And conſequently the juſtice of the Aſſemblies ſentence condemning it.</hi>
+            </p>
+            <p>Done by a Member of the GENERAL ASSEMBLY.</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 120. v. 7.</hi>
+               </bibl>
+               <p>I am for peace; but when I ſpeak, they are for war.</p>
+            </q>
+            <p>
+               <hi>Printed at</hi> Leith <hi>by</hi> Evan Tyler, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100815:2"/>
+            <pb n="3" facs="tcp:100815:2"/>
+            <head>
+               <hi>THE PROTESTATION Reviewed and refuted;</hi> Briefly ſhewing the inſufficiencie of the reaſons thereof; and conſequently, the juſtice of the Aſſemblies ſentence condemning it.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Mongſt the many ſad judgements, wherewith the holy bleſſed GOD is pleaſed to exer<g ref="char:EOLhyphen"/>ciſe th s ſinfull Land, ſtaining the pr de of all our glory; there is none more terrible, then that he threatneth to remove our Candle<g ref="char:EOLhyphen"/>ſtick, take his Kingdom from us, and ſet o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t his Vineyard to other Husband-men. And in this evill, that which extremely in-bittereth it, is, that in the day of Sions calamitie, as there is none to comfort her, ſo when ſhe calleth for her Lovers, they deceive her, her very ſons ſtand a-far off from her; and as if that were not enough, they perſe<g ref="char:EOLhyphen"/>cute her whom the Lord hath ſmitten, and talk to the grief of thoſe whom he hath wounded; like <hi>Jobs</hi> friends, miſerable com<g ref="char:EOLhyphen"/>forters; in her adverſity they gather themſelves together, in the place of Cordials, bringing Corroſives.</p>
+            <p>I ſhall be loath to trace that too-too ordinary by-path, of judging any mans everlaſting eſtate, by his temporall out-break<g ref="char:EOLhyphen"/>ings, o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his hea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and intentions, by the out-ſide of his actions; yet (I think) I may ſafely ſay, that that Aſſembly at S. <hi>Andrews</hi> and
+<hi>Dundee,</hi> although deſpiſed of men, was owned of GOD; and that he guided their Pens, as all along in their Procedure, ſo particularly in their Warning and Declaration, and thoſe words thereof, <hi>What ever hath been the intention of thoſe who have
+<pb n="4" facs="tcp:100815:3"/> been inſtrumentall, in making this rent from publick Counſels and actings, yet the Work it ſelf, and the ſpirit that hath been ſtirring in it, hath been, and yet is moſt effectual, for carrying on of the Deſign of the Adverſaries of our Cauſe.</hi> Which they prove by ſeven ſteps of their progreſſe, whereof that is the laſt and higheſt, their unparalelled practice (except that of the per<g ref="char:EOLhyphen"/>ſidious Prelats) of abſolutely declining the Authority of the Ge<g ref="char:EOLhyphen"/>nerall Aſſembly, and Proteſting againſt it as null; and ſo at one ſtroak, throwing down the hedge of Diſcipline in this Kirk, and making way for every beaſt of the Forreſt to break in, and that upon ſuch frivolous and falſe grounds, as maketh the authority of all the Aſſemblies of this Kirk, ſince the begun Reformation, to be called into queſtion, upon the ſame or the like pretences. This courſe, although they laboured to juſtifie, by whatſoever ſpe<g ref="char:EOLhyphen"/>cious pretexts the patrons of a bad cauſe could canvaſſe, yet the unwarrantableneſs of that way, and the vanity of the grounds thereof, hath been evidently evinced in that modeſt, ſo<g ref="char:EOLhyphen"/>lid and judicious Piece, intituled, <hi>A Vindication of the late Gene<g ref="char:EOLhyphen"/>rall Aſſembly, &amp;c.</hi> Which I cannot but recommend to the ſeri<g ref="char:EOLhyphen"/>ous peruſall of all the Members of this Kirk, who deſire ſatisfa<g ref="char:EOLhyphen"/>ction in the points of the preſent Differences, or to be armed againſt the like Procedures for the future; And that ſo much the rather, as that ye may ſee the ſame ſtorm again toſſing the almoſt drowned, and not yet recovered Ship of this Church. Whatſoe<g ref="char:EOLhyphen"/>ver men are doing, the Devill is ſtill driving on the deſign he hath found ſo advantageous; dividing, that he may conquer, and that he may divide, cleaving us with a wedge of our own timber, and adding to his violence, deſpight; doing it at ſuch a time, in ſuch a place, and ſuch a way; I mean, by men who were eminent in our Aſſemblies, in the City of our ſolemnities, yea in the face of the Generall Aſſembly, and putting it to the Preſſe, even while they were treating with them for peace, and ſtudying in the bowels of Chriſtian condeſcendance, to reclaim them from ſo diviſive and deſtructive a courſe.</p>
+            <p>This way, as it cannot but ſadly affect every ſon of Sion, ſo hath it forced me, untill an abler Pen ſhall finde more leiſure, for preventing further inconvenience, to write theſe few things fol<g ref="char:EOLhyphen"/>lowing, that the ſimple may be undeceived.</p>
+            <p>
+               <pb n="5" facs="tcp:100815:3"/>And paſſing for the preſent, the Repreſentation (as they call it) but indeed the miſrepreſentation of our ſtate and differences; a bitter P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ece, filled with uncharitable aſper<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, moſtly repeated again in the Proteſtation. Waving alſo the Propoſitions offered therewith to the Aſſembly, and ſo ſatisfactorily anſwered by it, I ſhall (Godwilling) grapple with them in their Arſenall of the Proteſtation it ſelf, yet ſhortly glancing onely at ſome principall things.</p>
+            <p>Where I begin with the Title, A PROTESTATION, which was given in againſt the Supreme Repreſentative of this Kirk, although I do not deny, but that General Aſſemblies may erre, and the godly be ſo put to it, as to have no remedy left them in Law, but to proteſt; yet except the caſe be clear and ſure, this courſe is one of the higheſt contempts of Eccleſiaſtick authority. The laſt refuge for removing of ſcandals being <hi>Mat.</hi>
+18.17. <hi>tell the Church,</hi> after which nothing remaineth, but if he neglect to hear the Church, <hi>let him be as a heathen or a publican.</hi> I truſt, what<g ref="char:EOLhyphen"/>ſoever gloſſes others put upon the words, there is no difference betwixt our Brethren and us, about the expoſition of them: And hence appeareth the equity of that Act and practice of our Aſ<g ref="char:EOLhyphen"/>ſemblies, inflicting the higheſt cenſures upon ſuch; and reaſon, ſince they (in the higheſt meaſure) neglect to hear the Church, neither is there now any <hi>ulterior</hi> or <hi>ſuperior</hi> Judicatory to go to. It is the judgment of all moderat and modeſt Divines, that a great deal of reverence is due to the Church, even when ſhe erreth; But what if ſhe erre not? and whether ſhe do or not, wherein have theſe men ſhown their reverence and reſpect to their Mother? who what in them lyeth (but bleſſed be the Lord it lyeth not) would diſcover her nakedneſs, when others then Brethren are to behold it. Let them take heed if this be not a main ſtep to Separa<g ref="char:EOLhyphen"/>tion, (which in words they ſeem to abhorre) when as they proteſt and profeſſe they will not hear us, ſo they would caſt on us a kind of neceſsity to hold them as Heathens and Publicans; But to pre<g ref="char:EOLhyphen"/>vent this, they have found a way of their own, and (as if they had not been of us) they are gone out from us, and ſetting up to do their own buſineſs without us, as they ſeem to intimate in the laſt page of their Printed Paper after the Proteſtation, contrary to the very fundamentals of the Diſcipline of our Kirk, which is, and hath
+<pb n="6" facs="tcp:100815:4"/> ever been profeſſed to be, by Presbyteries, Synods, and National Aſſemblies, duly ſubordinate one to another, all which their courſe overturneth, while they walk in a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>other way to make the matters of their Propoſitions practicable, as they ſay.</p>
+            <p>But beſides that, a Proteſtation is at beſt (except in the caſe of pungent neceſſity) in its nature odious, it is ſo much worſe in our Kirk, where we are tyed by the ſtricteſt Bonds both of the National, and ſolemn League and Covenant, againſt all diviſive motions and courſes; and I pray, what is this other then a diviſive motion, and that of the deepe<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dye, for them to ſeparate them<g ref="char:EOLhyphen"/>ſelves, and joyning together make a Party, when the Supreme Judicatories of Kirk and State were going on in their continued Actings, in the day of great danger and diſtreſſe? They may be pleaſed to remember their own Act ngs and ſpeeches, when God honoured them to be ſitting in the Supreme Judicatories; How far ſhort came the intended diviſive Supplication in
+<hi>Anno</hi> 1648. of this courſe they are now on? Nay, the very croſſe Petition in
+<hi>Anno</hi> 1642. both which ſome of them (I ſay ſome, for moſt of them are but of yeſterday, and had then no place in our Judicatories) ſhewed to much zeal againſt.</p>
+            <p>And thus paſſing the Title of it, we come to the matter, where following their foot-ſteps, we begin with the Narrative which they begin, with aſſerting, <hi>that it is well known to diverſe of our number, what peaceable endeavours they have uſed without ſucceſſe, in order to the removing of the differences among us.</hi> To which I reply, that even by the permiſſion of their own phraſe, moſt part of the Aſſembly might, yea did not know any ſuch thing, but were confidently perſwaded, if any ſuch endeavours were uſed, the lack of ſucceſſe did and doth lye ſolely and ſadly upon the Proteſtors themſelves. When this was publickly de<g ref="char:EOLhyphen"/>bated in the Aſſembly, there was none found that knew ought in that kind, except that which was done in the latter end of the laſt year, which let the world judge, how peaceable an endeavour it was, and whence it came that it wanted ſucceſſe.</p>
+            <p>Thus it was: They meeting then in <hi>Edinburgh</hi> without Order; after a little pauſe, did conſtitute themſelves in an Eccleſiaſticall Judicatory, wherein Magiſterially they defined things ſo preju<g ref="char:EOLhyphen"/>diciall to us, as not onely perfectly obſtructed all Peace, but alſo
+<pb n="7" facs="tcp:100815:4"/> ſounded the alarum to a new conflict, by emitting a Paper, where<g ref="char:EOLhyphen"/>in they peremptorily conclude among the chief cauſes of Gods cont overſie with the Land, the publick Reſolutions and preced<g ref="char:EOLhyphen"/>ing Aſſembly to have a ſpeciall place. And having thus faſt lock<g ref="char:EOLhyphen"/>ed the door of Peace, to mock the world, if it did nought elſe; They ſent ſome of their number to <hi>St. Andrew<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> to eſſay if they could draw off three or four there, and others to <hi>Glaſgow</hi> for the like intent, making accompt (which ſome of them ſpared not to profeſſe) that if <hi>they could get five or ſix of our moſt emi<g ref="char:EOLhyphen"/>nent men off, they cared not for the reſt of the Miniſtery;</hi> pro<g ref="char:EOLhyphen"/>feſſing alſo at that Conference, and others of them in an open Synod that <hi>they would never unite with the moſt part of the Miniſtery of Scotland.</hi> And ſuteable to thoſe ends was their carriage at St. <hi>Andrews,</hi> as is clear in the Relation of the Paper thereanent, which Paper though publick enough, we have ne<g ref="char:EOLhyphen"/>ver yet heard contradicted by any.</p>
+            <p>As for any other of their endeavours, they are <hi>inter occulta de quibus non judicat Eccleſia:</hi> But I ſhall deſire it to be conſi<g ref="char:EOLhyphen"/>dered on the contrary, how the preceding Aſſembly at <hi>Dundee</hi> appointed, that Synods and Presbyteries ſhould deal with them, to give them ſatisfaction ere they proceeded to cenſure; the pub<g ref="char:EOLhyphen"/>lick Commiſſion could do nothing of that kinde, being by the troubles of the time impeded to ſit, yet were not ſuch of them as could moſt conveniently correſpond, altogether defective in th s, though preſſed with either part of a doleful <hi>dilemma;</hi> for if they ſhould act in the capacity of a Commiſſion, the Proteſters would not have conferred; and out of that capacity, their Acting (beſides, that it could not have been obligatory to others) had been a ſi<g ref="char:EOLhyphen"/>lent quiteing, if not a betraying of their Truſt; But Providence offered opportunity thus: In the beginning of this year, ſome Brethren from ſeverall parts of the Country, being ſenſible of the then imminent ſnare and danger, reſolved by common conſent to come to <hi>Edinburgh</hi> about the 12. of
+<hi>February,</hi> at which time they heard there was to be a great meeting of our diſſenting Bre<g ref="char:EOLhyphen"/>thren, where they reſolved to deal with them, that there might be a common Warning emitted by conſent of all the Judicatories of the Kirk, concerning things which we doubted not were a<g ref="char:EOLhyphen"/>greed to on all hands: accordingly they dealt with ſuch of them
+<pb n="8" facs="tcp:100815:5"/> as were in Town, by the mediation of the Miniſter of <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> by whom they ſent to them materials of a Declaration, deſiring them to change or adde as they ſhould think fit for the purpoſe, but they refuſed to joyn, to the great grief of thoſe who did mediat, pretending they would firſt have a Conference about Difference, which was nothing elſe, but to diſappoint the matter, the danger being ſo near, that a Meeting for ſuch a Con<g ref="char:EOLhyphen"/>ference could not be conveened, and the danger prevented.</p>
+            <p>This paſt, the Synods in <hi>April</hi> being invited by that of Fife; by their acceptance of their Overture, ſhewed their Affections to ſuch a Peace with their Brethren, as might not trouble their Peace with God: And for that effect, did Commiſſionate ſome of their Mem<g ref="char:EOLhyphen"/>bers to come to <hi>Edinburgh,</hi> to a Meeting in <hi>May</hi> laſt: But that is the next thing they complain and challenge us of. Firſt for ne<g ref="char:EOLhyphen"/>glecting to give them timeo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s advertiſement, when yet the very firſt motion of that Meeting in all our Judicatories, was in their preſence, who if they had been of ſuch a peaceable temper as they talk of, would no doubt have made ſuch an invitation wel<g ref="char:EOLhyphen"/>come, and embraced the occaſion. As for particular advertiſement to them ſeparatly, the Delegats of the Synod of <hi>Fife</hi> intruſted therewith, uſed all poſſible diligence, a fortnight before that meet<g ref="char:EOLhyphen"/>ing, diſpatching their miſſives (which for ought that is known) did not miſcarry, yea upon their diligence we found at that Meeting, ſome from <hi>Roſſe,</hi> and others from
+<hi>Drumfreiſe,</hi> places of very remote diſtance, both South and North: And it is credibly informed, that ſome of their chief leading men wrote both to <hi>Aberdeen,</hi> and
+<hi>Galloway,</hi> deſiring their Complices not to keep that Meeting. Secondly, they complain,
+<hi>that not ſo much as ſome few dayes of delay could be obtained by thoſe few of their num<g ref="char:EOLhyphen"/>ber which were then preſent, whereby they might give advertiſe<g ref="char:EOLhyphen"/>ment to others.</hi> The truth is, in reſpect of their paucity, they re<g ref="char:EOLhyphen"/>quired at leaſt a fortnights delay (although they had probably a pre-indicted meeting reaſonable frequent, in that ſame place the ve<g ref="char:EOLhyphen"/>ry week following, and others of them were in Town then, did appear to us, and ſome of them went out of Town immediatly be<g ref="char:EOLhyphen"/>fore our Meeting) and ſo long a time could not be given, not only becauſe our Brethren having come haſtily from their ſeveral dwellings, were not able to attend ſo long, and once ſuffered to
+<pb n="9" facs="tcp:100815:5"/> ſcatter could not conveniently be gathered again; but eſpecially be<g ref="char:EOLhyphen"/>cauſe having offered unto them a free Gen Aſſembly (the of old acknowledged proper remedy of all Eccleſiaſtical d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeaſes) where many of our ſelves might again be preſent, it was plain that no<g ref="char:EOLhyphen"/>thing to any good effect could be done till then: And Providence happily caſting that occaſion in their hands, that they might ap<g ref="char:EOLhyphen"/>point and determ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne of the place of the enſuing Aſſembly, they cou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not ſuffer the ſame to ſlip, which could not be ſhunned, for lack of timeous advertiſement to the Presbyteries, if it were not then concluded. And ſo (which they perceived thoſe they ſpoke with directly aimed at) let the Kirk in this difficult time be ſhaken looſe of her Poſſeſſion, of that her dear bought Freedome, which Mr. <hi>Welch,</hi> Mr.
+<hi>Forbes,</hi> and other precious men, that now reſt, adventured their lives, and ſuffered baniſhment to preſerve; As was gravely preſſed home by Mr. <hi>Blair</hi> upon them in the Confe<g ref="char:EOLhyphen"/>rence, and to which they could not, ſure they did not, give ſo much as a ſeem<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng ſatisfactory anſwer. Thirdly, they ſay in the Printed Paper; That a Deſire of Reconciliation was preſented, but peremptotily, the Electing, and ſending Commiſſioners to keep the day indicted by the Meeting of
+<hi>Dundee,</hi> was concluded. I know no oppoſition betwixt thoſe two, as I conceive any good ſenſe in the former, the one being the end, and the other a mean to it: Beſides, I know no deſire of Reconciliation preſented to them, except the Paper of the offer of a free Aſſembly, as the proper Remedy of our diſtractions. But in the <hi>autograph,</hi> it is
+<hi>pretended,</hi> not <hi>preſented;</hi> and ſo they moſt uncharitably aſſert, We pretended a Deſire of Reconciliation, but had concluded ano<g ref="char:EOLhyphen"/>ther thing: It is ſo wel known in the Countrey, whether it be we or they that uſe to act ſo; That I ſhal only need to ſpeak to the pur<g ref="char:EOLhyphen"/>poſe? Our deſire of Peace was reall, the obſtruction of it was from them, and we had been very fooliſh, and cenſurable, if ever the Lord ſhould bleſſe us with another Aſſembly, for not walk<g ref="char:EOLhyphen"/>ing anſwerable to our Truſt, in relation to this, if we had not deſigned the place thereof.</p>
+            <p>
+               <hi>In the next room,</hi> They mention their Paper given in with the Propoſitions (wherein they ſay they have the concurrence of the Generality of the Godly of the Land) and did intreat for a Conference; which was denyed; the Commiſſioners proceed<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:100815:6"/> to aſſume the Power, and conſtitute themſelves in a Generall Aſsembly: Leſt any ſhould think, that in aſsuming the Power, and conſtituting themſelves in a Generall Aſſembly, they d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſome new and uncouth thing, as thoſe who challenge them did the laſt year, in conſtituting themſelves a Commiſſion of the Kirk; Be it known to all men, they did no other thing, nor in no other way then all the Aſsemblies ſince the laſt Reformation have been in conſtant practice of: And how neceſsary it was, in this ſtaggering time, not to change in the leaſt, will be aſsented to, by every ingenuous man, nor know I any reaſon why they ſhould complain: For thoſe to whom the Paper was given, were not in a capacity to give an anſwer, till they were firſt conſtitute in an Aſsembly (yea none but an Aſsembly could ſatisfactorily anſwer their Demands, as is evident too, and will be acknowledged by the judicious Reader) Which was no ſooner done, then they went effectually about it; but on the contrary, the Proteſters would not ſo much as wait till then, but preſently gave in their Proteſtation. We will not now ſpeak of that other Paper, yet cannot paſs that arrogant Title of the Generality of the Godly, wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch they aſsume to themſelves, and their abettors. We will not mention of whom they learned this, and whom in many other th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs they too much reſemble: But we ſhall refer the Reader to that moſt fa thful and timeous Warning and Declaration of the late Aſsembly at <hi>Dundee,</hi> and the third admonition and charge of the ſecond part thereof.</p>
+            <p>Where they affirm it <hi>their burden, and that they have no delight to be conteſting with any who profeſs themſelves to be maintainers of the Government of this Church.</hi> It is wiſhed their works were conſonant to their words, and made them credible to all on lookers: Certainly, how ever they may pleaſe themſelves, this is not the ordinary opinion that moſt men have of them.</p>
+            <p>Next, they ſpeak of a party of inſufficient, ſcandalous, and cor<g ref="char:EOLhyphen"/>rupt M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niſters &amp;c. <hi>complying with the times, expreſsing their diſaffection to the Work of Reformation, as they found opportunity, as in the time of</hi> James Graham, <hi>and the unlawfull engagement, who got greater advantage by the publick Actings for bringing in of Malignants to places of Truſt: And who perceiving they were not able to endure tryal and purging, began the laſt year to
+<pb n="11" facs="tcp:100815:6"/> lift up their heads, and being encouraged by the Acts and Cenſures of</hi> Dundee, <hi>have ſo ſtrengthened themſelves, as to carry on Pub<g ref="char:EOLhyphen"/>lick Determinations to their own ends, from whom</hi> (ſay they) <hi>what can be expected, but to favour every evill courſe, to perſe<g ref="char:EOLhyphen"/>cute ſuch as ſeek the Lord in ſincerity, ſuppreſſe the power of God<g ref="char:EOLhyphen"/>lineſſe, and open the door of the Mniſtiery to ſuch as for inſufficiency, ſcandals, or diſ-affection, have been juſtly depo<g ref="char:EOLhyphen"/>ſed, in regard whereof, they think there is too great cauſe to make uſe of the Prophets words,</hi> Jer. 23.14, 15. There be many things here deſerve animadverſion.</p>
+            <div n="1" type="animadversion">
+               <head>I.</head>
+               <p>Although we deny not, but that in every Order there may be ſome out of Order; as
+<hi>Judas</hi> among the Ap<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtles, and
+<hi>Saul</hi> among the Prophets, yet know we not of any ſuch party as they ſpeak of, nor did ſo much as any perſon of that kind ſooner appear among us, then according to the meaſure of his offence, he found the ſeve<g ref="char:EOLhyphen"/>rity of Diſcipline. It would be ſeriouſly conſidered, whether or not by this Party, they mean the Body of the Miniſtery repreſent<g ref="char:EOLhyphen"/>ed at
+<hi>Dundee,</hi> whom thus they would caſt an <hi>odium</hi> upon; but what favour the Party that was truly ſuch as they deſcribe, found at that venerable Aſſembly, let their Acts and Declarations ſpeak; which Declaration of theirs mentioneth another Party, that hath, (alas) too long lurked among us, and under ſpecious pretexts brought their deſign to that paſs we now ſee. Theſe men ſhould (according to the common rule) firſt have purged themſelves, and taken this beam out of their own eye.</p>
+            </div>
+            <div n="2" type="animadversion">
+               <head>II.</head>
+               <p>It is true indeed, and I truſt, the Kirk of this Nation hath no reaſon to repent, that ſhe ſtill hath ſome, who (during the prevailing of the Prelates) were carried down with the Tide of the times, even to give ſubſcriptions according to the then way of entry, and being weighted therewith, do comfort themſelves with <hi>Paul,</hi> That God will be mercifull to them, in that which they did ignorantly. But for thoſe horrid Oaths they ſpeak of, nothing is known but the common ſubſcription: And if ought concern the Kirk to know more, it ſhould neither have been ſo long concealed by thoſe who appropriate to themſelves the title of the godly, nor now revealed at ſuch a time, and in ſuch a way.
+<pb n="12" facs="tcp:100815:7"/> As for their ſubſcriptions, they were generally known; yet not<g ref="char:EOLhyphen"/>withſtanding thereof were the Subſcribers even at firſt invited to the Covenant, and ſome of them with the firſt appeared a<g ref="char:EOLhyphen"/>gainſt the Se<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vice-Book, and many of them have not to this day fallen from their ſtedfaſtneſs; neither were all that have fallen of that number. But for further and full clearing of this, I offer theſe things. 1. Some of the prime of their number, are alſe, if not more groſſely guilty of the ill, then any of ours. 2. There are of our number ten for one of theirs, that in that hour and power of darkneſs, bare the heat and hard of the day. 3. Scarce twenty of them are yet of ſix years ſtanding in the Miniſtery, and but about five only of them were Miniſters, when the National Co<g ref="char:EOLhyphen"/>venant was ſubſcribed. 4. And generally all the old Miniſters, and thoſe that were admitted before the Epiſcopal incroach<g ref="char:EOLhyphen"/>ment, are for the Aſſembly. 5. Laſtly, would we ſpeak of thoſe that ſuffered under the Prelats, the Aſſembly will be found to have three for it, where one is againſt it.</p>
+            </div>
+            <div n="3" type="animadversion">
+               <head>III.</head>
+               <p>
+                  <hi>As for any</hi> who by word or deed at any time appeared againſt the late Reformation, they ſtill found ſo little patrociny from thoſe who are now Aſſembly-Men, that I am ſure, if we ſhould ſerve the Proteſters w th the like meaſure, for tranſgreſſi<g ref="char:EOLhyphen"/>ons of he like nature, and perhaps greater, they would cry out, of cruelty and perſecution.</p>
+            </div>
+            <div n="4" type="animadversion">
+               <head>IV.</head>
+               <p>As for the Epithets they give that Party; I confeſſe, ill enough cannot be done to, let be ſpoke, of men who are truly ſuch as they deſcribe: But we deſiderate here both charity and pru<g ref="char:EOLhyphen"/>dence, at ſuch a time, and in ſuch a way, to fling filth upon the faces of their Brethren; and that (for ought yet ſeen or known) moſt unjuſtly.</p>
+            </div>
+            <div n="5" type="animadversion">
+               <head>V.</head>
+               <p>
+                  <hi>That the Publick Actings were for bringing in of the Malignant Party, to places of power and truſt, and bearing down ſuch as had been ſtraight in the Cauſe, ſtirring up the Ci<g ref="char:EOLhyphen"/>vill
+<pb n="13" facs="tcp:100815:7"/> Magiſtrate againſt them; and ſubjecting the liberty of the Word in the mouth of Chriſts Ambaſſadors, for reproof of ſin, to the immediat judiciall cognizance, reſtraint and cen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure of the Civil Magiſtrate,</hi> will appear a maſs of malicious reproaches, by ſhortly ſetting down the true ſtories related to: But I muſt firſt tell, that the odious term Malignant, doth not appertain to them, who having ſatisfied for their offences of that kind, according to the Order preſcribed by theſe mens own aſſent and advice keep themſelves free from new out-breakings of that abjured iniqui<g ref="char:EOLhyphen"/>ty; And if we walk not according to this rule, many of them wil be forced to hear, what for the preſent I purpoſe not to ſpeak. And n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xt adde, that all the bi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds of their feather, were not ſo ſtraight in the Cauſe, as they would ſeem to inſinuat here: And on the other part, ſome whom they term Malignants here, have given unqueſtioned evidence of their affection to, and are ſtill ſuf<g ref="char:EOLhyphen"/>fering for that Cauſe.</p>
+               <p>Now, the ſtories related to, are theſe two; The one ſo well known, that we need no more but remember how, when, and up<g ref="char:EOLhyphen"/>on what pinch of neceſſity, (which themſelves know how it came) the Commiſſion of the K<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk being enquired by the State, who might be employed for the neceſſary defence of the Coun<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey at ſuch a time; The Commiſſion of the Kirk gave that An<g ref="char:EOLhyphen"/>ſwer, which their duty to GOD, their Mother Kirk, Native Countrey, and the Proteſtant Intereſt extorted from them, and which all Nations and Incorporations whatſoever, will, and do allow and practize in ſuch a caſe. But, that people may rightly judge of it, for it is ordinarily miſ-repreſented, we deſire them to get, and ponder the Commiſſions own Papers.</p>
+               <p>The other ſtory is ſhortly (in ſo far as it is moſt material) thus; It being repreſented by the Committee of Eſtates, to the Commiſ<g ref="char:EOLhyphen"/>ſion of the Kirk, what hazard the Garriſon of <hi>Sterline</hi> was in by their Miniſters there p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaching and otherways dealing they with<g ref="char:EOLhyphen"/>all ſignified how they behooved to take ſome courſe for ſecuring the ſame, the Commiſſion deſired their Lordſhips, that they would not meddle with the matter, til they had firſt dealt w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th them, and returned their report of the Iſſue, which being aſſented to, the Commiſſion wrote for them to St <hi>Andrews,</hi> where they met with them; and when by conference they would not receive ſa<g ref="char:EOLhyphen"/>tisfaction,
+<pb n="14" facs="tcp:100815:8"/> began to entreat them firſt to give aſſurance, that they would not obſtruct the Levies, but this they refuſed: Thereafter, that they would be pleaſed (for Peaces ſake) to with draw for a ſeaſon from <hi>Sterline,</hi> and they would provide their Places, but this they alſo refuſed, although Mr. <hi>Blair</hi> then (apparently a<g ref="char:EOLhyphen"/>dying) did gravely obteſt them, both for the one and the other; which being repreſented to the Committee of Eſtates, and they thereafter informed, how thoſe Miniſters continued in their for<g ref="char:EOLhyphen"/>mer practice, they wrote for them once, and again, to come to <hi>Perth;</hi> But ere they came, (the moſt part of the Committee be<g ref="char:EOLhyphen"/>ing removed to the North) they who remained, deſired them to ſtay at <hi>Perth</hi> or <hi>Dundee,</hi> till the reſt ſhould return; againſt which they proteſted in very h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh terms, as encroaching upon the Miniſtery, &amp;c. By the time the reſt returned, the Parliament did ſit, who deſired the judgment of the Commiſsion, whether or not the Committee of Eſtates had made any encroachment upon the Miniſtery and Government of this Kirk, by detaining theſe Miniſters, and give their advice what courſe the Parliament ſhould take in relation to them, for ſecuring the Garriſon of <hi>Ster<g ref="char:EOLhyphen"/>line;</hi> the ſum of the anſwer thereto was, the Brethren might law<g ref="char:EOLhyphen"/>fully proteſt, that nothing be done prejudiciall to the Liberties of the Kirk; but that they did not ſee that the Committee of Eſtates had encroached thereon, by that which they had done; and that they could give no advice to their Lordſhips, the ſecuring of a Garriſon being a thing not competent to them. After which, ſome of thoſe Miniſters friends entreated ſome of the Commiſsi<g ref="char:EOLhyphen"/>on, to deal with the Parliament, to let their Brethren go home, un<g ref="char:EOLhyphen"/>der-taking for them, that they ſhould not further offend; which the Brehren of the Commiſsion did, engaging themſelves to be anſwerable for their carriage; whereupon they were preſently diſmiſſed. This being the true ſtory, let any judge of the truth of the former calumnies.</p>
+            </div>
+            <div n="6" type="animadversion">
+               <head>VI.</head>
+               <p>As for their purging humour, which time with theſe ſad diſpenſations might have purged out of them, but belike it will never leave them; We grant indeed the Kirk ſhould be carefull to purge out the old Leaven. All our queſtion is, anent the man<g ref="char:EOLhyphen"/>ner
+<pb n="15" facs="tcp:100815:8"/> how: And I ſhall deſire them in the fear of God, to conſider whether their practiſe in this hath been in every thing ſquared to the Apoſtles Rules, 1
+<hi>Tim.</hi> 5.19. <hi>Tit.</hi> 3.10. <hi>Gal.</hi> 6.1. <hi>Jud.</hi> 22.23. And whether or not they made it a politick ſcrew, to wind themſelves into all places of Power and Authority, Civill, and Ec<g ref="char:EOLhyphen"/>cleſiaſticall, and a mean of revenge, exercing it uncharitably and unſeaſonably.</p>
+            </div>
+            <div n="7" type="animadversion">
+               <head>VII.</head>
+               <p>As for any power in any to carry publick Determinations to any wrong ends, we can, and do bleſſe God, the contrary is known to be true, and all the Aſſemblies Determinations ſpeak the ſame Language to the whole world; yea, I hope, to their con<g ref="char:EOLhyphen"/>ſciences alſo, when the heat of their paſſions is a little allayed,</p>
+            </div>
+            <div n="8" type="animadversion">
+               <head>VIII.</head>
+               <p>For the following words, which are of the ſtamp with the former, I ſhall only adde 1. What meaſure every one that cometh not up their full length may expect of them, if their for<g ref="char:EOLhyphen"/>mer actings had not ſufficiently cleared, their preſent expreſſions put out of all doubt. 2. It is not one of the characteriſticall pro<g ref="char:EOLhyphen"/>perties of the Godly, to be ſo oft aſſuming that Title. 3. Such hainous accuſations muſt not be taken upon truſt, when nought is ſaid to make them appear. 4. I believe the Aſſembly knoweth of none received to the Miniſtery, but according to the Publick Order; and when ought ſhall appear to the contrary, will take ſuch courſe therewith as in Juſtice accordeth.</p>
+            </div>
+            <div n="9" type="animadversion">
+               <head>IX.</head>
+               <p>For their alluſion to the Prophets words, I ſhall deſire them ſeriouſly to read them again, and perpend if in conſcience, they be appl cable to the points of preſent differences.</p>
+               <p>Next; they tell us, it ſhall be their purpoſe to maintain the Do<g ref="char:EOLhyphen"/>ctrine, Worſhip, Diſcipline, and Government of this Kirk, and particularly the Nationall Aſſemblies, ſo long as they are preſer<g ref="char:EOLhyphen"/>ved from corruption in the Conſtitution thereof: But many need better Arguments to perſwde them of this, then their bare Pro<g ref="char:EOLhyphen"/>feſſion, or practice this year and the laſt; Of which we may well
+<pb n="16" facs="tcp:100815:9" rendition="simple:additions"/> ſay, what ever be the purpoſe of men, it is evidently the aim of the divel to ruine Generall Aſſemblies, and ſo to raze the walls of our <hi>Jeruſalem;</hi> And they would do well to conſider if, and how far they ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e been inſtrumentall to drive on that deſign.</p>
+               <p>But they would make ſome clearing here, by telling us that <hi>All who are acquainted with the Principles and practices of our worthy Prodeceſſors, and of the learned and godly non confor<g ref="char:EOLhyphen"/>miſts in</hi> England, <hi>will eaſily
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee how far they are from their judg<g ref="char:EOLhyphen"/>ments and practices, who follow the wayes of ſeparation.</hi> Bel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke they ſtill dwell beſide evill neighbours, but which is worſe, they are hardly believed, when men call to minde, and conſider how now of a long time, ſtill they took the patrociny of all that were ſuſpected to follow thoſe wayes. 2. What Progreſs ſome of their chief and cryed up men have made in thoſe wayes. 3 What affection they ſtill carry to them, and how familiarly they con<g ref="char:EOLhyphen"/>verſe with them, even although excommunicate. 4. But eſpe<g ref="char:EOLhyphen"/>cially how unavoidable ſeparation is upon their grounds: For if it be a matter of Conſcience for them to joyn with others in Ci<g ref="char:EOLhyphen"/>vill Duties, that neceſsarily belong to the Incorporation, whereof both are members, ſure much more in Eccleſiaſtick. But a little time will further clear this.</p>
+               <p>As for an Argument drawn from the diſclaiming corrupt Aſ<g ref="char:EOLhyphen"/>ſemblies at <hi>Glaſgow,</hi> or the following Aſsembly at <hi>Edinburgh,</hi> its affirming thoſe corrupt Aſsemblies, were a chief cauſe of the evils we then groaned under. How weak, I ſay, ſuch an argu<g ref="char:EOLhyphen"/>ment will be for juſtifying their preſent practice; is palpable to a<g ref="char:EOLhyphen"/>ny who will look either to the matter concluded in thoſe corrupt Meetings, or the manner of their procedure, or the particular reaſons whereon they were condemned, in all which there being nothing alike; I wonder why they are alledged, except perhaps, they know many of their Proſelytes will take upon truſt, what<g ref="char:EOLhyphen"/>ſoever cometh from them, or ſeemeth to borrow countenance from <hi>Glaſgow.</hi>
+               </p>
+               <p>They ſay, they have a clear warrant from Scripture, to plead and teſtifie againſt corruptions: It is, indeed, but withall they ſhould have better grounds then any we have yet heard of, or can conceive, before they trouble the Peace of a Kirk, and ſo per<g ref="char:EOLhyphen"/>emptorily conclude, that a corruption, which they cannot prove
+<pb n="17" facs="tcp:100815:9"/> one; yea what all, not only Reformed Churches, from the light of Scripture are perſwaded of, but even generally all people from the light of Nature, and upon the Principles, of ſelf preſervation, are convinced is a duty.</p>
+               <p>We paſſe for the preſent, to give any verdict, concerning ſome by-paſt Acts of theirs (which they mention) how good they were, or how true. What is ſaid being ſufficient to clear, that this their Prote<g ref="char:EOLhyphen"/>ſtation is alſe needleſs (to ſay no worſe) as the following grounds given for it are frivolous, which themſelves ſeem in part to aſſent to, while they ſay, they do it for all or ſome of the reaſons following, and ſo inſinuate, that ſome of them will not hold water, which (in my humble opinion) they might ſafely have affirmed of them all.</p>
+               <p>Their firſt reaſon is, that this <hi>Meeting hath its dependence, power and authority for its indiction, from that of</hi> St. Andrews, <hi>and</hi> Dun<g ref="char:EOLhyphen"/>dee. Is not that to beg the queſtion? and beſides, hath no weight, nei<g ref="char:EOLhyphen"/>ther in reſpect of us who hold and have determined it a free, lawfull General Aſsembly, as indeed it was, and doth appear from the Vindi<g ref="char:EOLhyphen"/>cation thereof, a nervous piece, not yet anſwered, nor eaſily anſwer<g ref="char:EOLhyphen"/>able; Nor in reſpect of themſelves, and their principles, who in their Arguments againſt that Aſsembly, do determine, that Presbyteries may by mutual conſent, meet in a free, lawful Gen. Aſsembly; now the Commiſſions directed to this, do preſuppoſe and import the mutuall conſent of Presbyteries.</p>
+               <p>Their ſecond reaſon is, <hi>That it is conſtitute after the ſame manner, and (for the moſt part) of the ſame members that the laſt Aſſem<g ref="char:EOLhyphen"/>bly was, to wit, of perſons that have carryed on a courſe of defection, and in reſpect hereof, are incapable of being Commiſſioners;</hi> which again beggeth the Queſtion, and beſides that, it is anſwered in the fore-cited Vindication, includeth this falſhood, that they are (for the moſt part) the ſame Members conſtituent, whereas the Rolls compared will clear, that not the third man who was preſent the laſt year, are Members of this, neither d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d this Moderator precede in that challenged Commiſsion of the Kirk, nor was ſo much as preſent at it. But eſpecially this Argument our Remonſtrators have borrowed from the Remonſtrants of the <hi>Netherlands,</hi> their Proteſtation a<g ref="char:EOLhyphen"/>gainſt the Councell of
+<hi>Dort;</hi> at which meeting, it was largely and learnedly refuted, as may be ſeen in the judgments of the Orthodox Divines thereupon.</p>
+               <p>The third reaſon is, becauſe <hi>of the praelimitation of Elections, by
+<pb n="18" facs="tcp:100815:10"/> the Acts made at</hi> Dundee <hi>injoyning Synods and Presbyteries to pro<g ref="char:EOLhyphen"/>ceed to cenſure all who oppoſe the Publick Reſolutions, or ſhould not acquieſce to the Acts made at</hi> Dundee, <hi>and ſo excludeth all not in<g ref="char:EOLhyphen"/>volved in the courſe of defection, from Elections, in purſuance wher<g ref="char:EOLhyphen"/>of, there were ſundry praelimitations made ſince, by ſeverall Synods and Presbyteries.</hi> For anſwer, I would enquire, with what conſci<g ref="char:EOLhyphen"/>ence this Argument is proponed by them, who (for ought I know) are clear againſt the major, and cannot be ignorant of the vanity or nullity of the minor. Their major muſt be no Aſſembly, that is prae<g ref="char:EOLhyphen"/>limited, can be free. But to paſs the judicious conſiderations thereof in the learned Vindication, ſure I am, themſelves will never aſſent to any Aſſembly in this Kirk, without ſtrange prae-limitations, yea and prae-concluſions too; as they did ſignifie at the Meeting and Confe<g ref="char:EOLhyphen"/>rence in <hi>May</hi> laſt. And for the Minor, there were prae-limitations here, I pray you what? Such as may nullifie an Aſſembly? No ſuch thing. Is a future Aſſembly praelimited, becauſe a prior determined the qualification of its Members? Was the Parliament 1649. praelimited and unfree, becauſe the Committee of Eſtates excluded therefrom, all that ſate and voiced in the former? Or the Aſſembly of <hi>Glaſgow,</hi> becauſe the Tables appointed and laid down a way who ſhould be e<g ref="char:EOLhyphen"/>lected thereto, and who not? Or all future Aſſemblies, becauſe that of <hi>Glaſgow</hi> excludeth from them all that ſhal not take the National Covenant? Whither doth their paſsion lead them? To plead the E<g ref="char:EOLhyphen"/>piſcopall cauſe? Beſides, did not the Letter of the Commiſsion in <hi>May</hi> laſt, require of Presbyteries, to chooſe faithfull and honeſt men? Which, what ever ſome have ſaid, was no ſinful praelimitation Adde, although the Act of <hi>Dundee</hi> require Presbyteries and Synods, to pro<g ref="char:EOLhyphen"/>ceed with the Cenſures of the Church againſt them, who after confe<g ref="char:EOLhyphen"/>rence oppoſed the Publick Reſolutions (not as they ſay, with a disjun<g ref="char:EOLhyphen"/>ctive, or who ſhall not acquieſce to the Acts made) yet hath no Pres<g ref="char:EOLhyphen"/>bytery nor Synod that I know cenſured any upon that accompt, or excluded any from voicing in Elections; but rather all Presbyteries did require them thereto. Now, if they might elect, they might alſo by the ſame reaſon been elected; but themſelves fore-ſeeing that, in few Presbyteries obtainable; where-ever they were, they refuſed and diſſented, being probably themſelves praelimited by the order and ad<g ref="char:EOLhyphen"/>vice of their ring-leaders. Laſtly, it is at beſt needleſly added, that there were ſeveral limitations ſince in ſeveral Synods, I believe there wil be nothing elſe found but the ſame, <hi>viz.</hi> the aſſertion of the Con<g ref="char:EOLhyphen"/>ſtitution
+<pb n="19" facs="tcp:100815:10"/> of the Aſsembly of <hi>Dundee,</hi> which we will not grant, and they cannot prove to be ſuch a prae-limitation, as is deſtructive of the freedom of an Aſſembly.</p>
+               <p>Their fourth reaſon is made up of many particulars, which we thus particularly reply to.</p>
+               <p n="1">I. <hi>There are many Presbyteries who refuſe to ſend Commiſsion<g ref="char:EOLhyphen"/>ers to this meeting as an Aſſembly.</hi> But there be many unqueſtioned Aſſemblies have bin made up of fewer Members, as upon the inſpe<g ref="char:EOLhyphen"/>ction of the Rols will appear. Neither is a Meeting that hath no de<g ref="char:EOLhyphen"/>terminate Quorum, evacuate or made null, becauſe a Minor part legally warned, cannot, or will not come thereto, as the perpetuall practice of Presbyteries, Synods, former Aſſemblies and Parlia<g ref="char:EOLhyphen"/>ments ſheweth. Nor is the number of the Abſents here ſo great; and although it were greater, it is not their ſimple abſence, but unjuſt excluſion, that rendreth the Meeting obnoxious to exception.</p>
+               <p n="2">II. <hi>They ſay, there are many Presbyteries that do concur in pro<g ref="char:EOLhyphen"/>teſting againſt this Aſſembly,</hi> To which I reply, We have heard of diſſents, but not of any Proteſtation, except this, which they now have given; which if they mean here, as the Proteſtation is not <hi>Presbyte<g ref="char:EOLhyphen"/>riall,</hi> ſo the reaſon will be found to have no more of reaſon in it, then if they had argued thus; We find our ſelves neceſſitated to pro<g ref="char:EOLhyphen"/>teſt againſt this Aſſ. becauſe we have proteſted againſt it. Or thus; This our Proteſtation is juſt and lawfull, becauſe we have proteſted.</p>
+               <p n="3">III. Where <hi>Presbyteries have ſent Commiſsioners, the Electi<g ref="char:EOLhyphen"/>ons are generally controverted, there being Proteſtations made, at leaſt diſſents entered, againſt moſt of their Elections, upon good grounds.</hi> But here (I think) a ſpeciall providence hath ruled, that there was no Proteſtation. In moſt Presbyteries there were no diſſents at all; and all that we heard of, were ſimply againſt the Elections, not againſt the perſons elected, beſides that they were not proſecute, nor brought in to be diſcuſſed. And a diſsent inferreth not by the Act of the Aſſembly a ſuſpending, let be a repealing of the Act of the Ju<g ref="char:EOLhyphen"/>dicatory; Onely it maketh the Judges lyable to the cenſure of their Superiours, for what they have done; which if it be amiſſe, the diſſenter is not involved in their guilt or cenſure; but if not, he is cenſurable himſelf. And if it were otherwayes, we ſhould abſurdly be forced to confeſſe, that every Member of a Judicatory, hath a ne<g ref="char:EOLhyphen"/>gative voice, which will open a door, whereby every faction may elide all General Aſsemblies for ever.</p>
+               <p n="4">
+                  <pb n="20" facs="tcp:100815:11"/>IV. <hi>There be wanting Commiſsioners from Burghs, in reſpect of their preſent incapacity.</hi> We need ſay no more to this, ſince them<g ref="char:EOLhyphen"/>ſelves anſwer it, that they are in an incapacity: and ſuppoſe they were not, yet have they not a negative voice. Beſides that, all were not abſent.</p>
+               <p n="5">V. <hi>The generality of the godly in the Land go along with us</hi> (ſay they) <hi>and approve our proteſting againſt this meeting.</hi> A ſtrange aſ<g ref="char:EOLhyphen"/>ſertion, and of dangerous conſequence. Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Proteſtation was given in at the very beginning of the Aſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>embly, ere ever it was conſtitute, and that upon the delay of taking in their firſt Paper: and is it pro<g ref="char:EOLhyphen"/>bable they could gather all their conſents in ſo ſhort a time? Or had they them before? But that ſmelleth of a prae-medit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te Faction; Or go their reſolutions along with whatſoever theſe Proteſters do? But that is not ſuitable to them that are truly godly, to have their faith pinned to the ſlieves of any, how high ſoever they hold their head. Or is it that they will allow none to be of the number of the godly, who go not along with them in every thing? This (I ſuſpect) be the marrow of the matter: But who gave them that power to put out and put in into the Roll of the Godly, whom
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey pleaſe? And as we doubt of their authority ſo to do, even ſo alſo of their power; can they reach the heart, or are they quicker ſighted then <hi>Elias,</hi> who ſaw not one of the ſeven thouſand God had reſerved to himſelf? Wil they condemne all for ungodly, that are not of their way? How ſuit<g ref="char:EOLhyphen"/>eth that with their profeſſions elſwhere? I am ſure we have here rea<g ref="char:EOLhyphen"/>ſon to diſſent and appeal from ſuch an uncharitable cenſure of them that have no power, to the righteous Tribunal of the Lord, to whom we ſtand. There may be ſomewhat more yet of dangerous conſe<g ref="char:EOLhyphen"/>quence in it, in that they ſeem to ſubject the Publick Miniſteriall au<g ref="char:EOLhyphen"/>thority to the People, and amongſt them, to ſuch onely as are viſible Saints, where if there be any myſtery, they will do well to unfold it.</p>
+               <p>And now for the ſolemn words of the Proteſtation, the grounds and reaſons thereof being houghed, we need ſay no more but if thoſe Principles from which they ſay they do it,
+<hi>viz.</hi> the zeal they owe to the glory of God, &amp;c. were rightly weighed, they would inferre, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd have produced the quite contrary concluſion: Which the Lord out of his tender mercy to this poor bleeding Church and Countrey, imprint upon their ſpirits for Chriſts cauſe. AMEN.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100815:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
